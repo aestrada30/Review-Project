@@ -72,11 +72,11 @@ Our header file, `courseGrade.h`, contains the Course class which is made up of 
 
 Lastly, the `courseGrade.cpp` file contains all of the algorithmic functions required to produce accurate results for the students final grade.
 
-To run the program, the user must create a new project in a C++ compatible IDE and include each of these files. We are to assume the student already understands how to do this so it is a matter of simply running and compiling the provided files for the software. At this point the user must follow the command prompts carefully.
+To run the program, the user must create a new project in a C++ compatible IDE and include each of these files. We are to `assume` the student already understands how to do this so it is a matter of simply running and compiling the provided files for the software. At this point the user must follow the command prompts carefully.
 
 Note: Before running the program, the user should have all of their assignments on hand including the weight of each type. The user should also have each grade of all assignments converted to a percent out of 100. We considered this approach because in general, every assignment, within its own category, such as quizzes, are weighted equally.
 
-Upon running the program, the user will be prompted to input a series of particular information and it must be followed carefully because if the user makes a mistake then they will need to run the program again. We used this input approach because it will enable the user to calculate their grade for any class at any time.
+Upon running the program, the user will be prompted to input a series of particular information and it must be followed carefully because if the user makes a mistake then they will need to run the program again. These inputs include, the name of the class, numerical grades, numerical weights (adding to 100 total), and number of each type of assignment. We used this input approach because it will enable the user to calculate their grade for any class at any time and always give the most up to date results.
 
 Finally, the user will receive a final output which contains both numerical grade, letter grade and a brief suggestion based on their grade.
 
