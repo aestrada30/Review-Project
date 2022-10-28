@@ -80,4 +80,5 @@ Upon running the program, the user will be prompted to input a series of particu
 
 Finally, the user will receive a final output which contains both numerical grade, letter grade and a brief suggestion based on their grade.
 
-
+### Video Guide
+- Please see Gradescope for the video file. This video will guide the user through the program and provide useful information that may have not been covered in this README.md. Thank you and I hope you enjoy.
