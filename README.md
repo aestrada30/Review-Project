@@ -66,11 +66,11 @@ TASKS:
 ```
 ### How does the program work?
 
-The program contains three files, a main.cpp, courseGrade.cpp, and courseGrade.h file. The main.cpp file is simple and calls upon the members of our class which is made up of the different types of assignments which make up the overall grade of a student. In addition to accessing the class members, the main.cpp file also provides feedback depending on the students grade. Some of these comments are comedical relief and are not intended to offend anyone.
+The program contains three files, a `main.cpp`, `courseGrade.cpp`, and `courseGrade.h` file. The `main.cpp` file is simple and calls upon the members of our class which is made up of the different types of assignments which make up the overall grade of a student. In addition to accessing the class members, the main.cpp file also provides feedback depending on the students grade. Some of these comments are comedical relief and are not intended to offend anyone.
 
-Our header file, courseGrade.h, contains the Course class which is made up of assignment members. Each member is a type of assignment that is used in the algorithm to calculate the students final grade.
+Our header file, `courseGrade.h`, contains the Course class which is made up of assignment members. Each member is a type of assignment that is used in the algorithm to calculate the students final grade.
 
-Lastly, the courseGrade.cpp file contains all of the algorithmic functions required to produce accurate results for the students final grade.
+Lastly, the `courseGrade.cpp` file contains all of the algorithmic functions required to produce accurate results for the students final grade.
 
 To run the program, the user must create a new project in a C++ compatible IDE and include each of these files. We are to assume the student already understands how to do this so it is a matter of simply running and compiling the provided files for the software. At this point the user must follow the command prompts carefully.
 
@@ -80,8 +80,4 @@ Upon running the program, the user will be prompted to input a series of particu
 
 Finally, the user will receive a final output which contains both numerical grade, letter grade and a brief suggestion based on their grade.
 
-# Large Title
-## subtitle
-### subsub title
 
-- [space] is bullet point
